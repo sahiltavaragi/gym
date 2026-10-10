@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="FitGym icon">
+  <rect width="256" height="256" rx="56" fill="#0F172A"/>
+  <rect x="32" y="32" width="192" height="192" rx="40" fill="#F8FAFC" opacity="0.08"/>
+  <path d="M84 92v72M172 92v72M84 120h24M148 120h24M84 156h88M56 116h20v24H56zm124 0h20v24h-20z" stroke="#F8FAFC" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="128" cy="128" r="16" fill="#F8FAFC" opacity="0.9"/>
+</svg>
